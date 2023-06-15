@@ -1,6 +1,6 @@
 ### Hi there, My name is Jessica 👋
 
-[!Snake animation](https://github.com/jessicanonato/jessicanonato/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jessicanonato/jessicanonato/blob/output/github-contribution-grid-snake.svg)
  [![My Skills](https://skillicons.dev/icons?i=angular,react,cs,js,ts,css,html,bootstrap,aws,docker,dotnet,nodejs&theme=light)](https://skillicons.dev)
   
   ##
