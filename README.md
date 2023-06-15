@@ -14,9 +14,13 @@
 
 ## Technologies
  [![My Skills](https://skillicons.dev/icons?i=angular,react,cs,js,ts,css,html,bootstrap,aws,docker,dotnet,nodejs&theme=light)](https://skillicons.dev)
-  
+ 
+## Contributions
 ![Snake animation](https://github.com/jessicanonato/jessicanonato/blob/output/github-contribution-grid-snake.svg)
 
-![Jess's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicanonato&show_icons=true&theme=dark&hide_border=true&cache_seconds=2000&include_all_commits=true&count_private=true)
+## Github Status
+
+![Jess's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicanonato&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=2000&include_all_commits=true&count_private=true)
+
  
 
